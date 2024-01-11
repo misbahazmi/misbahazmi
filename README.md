@@ -11,8 +11,8 @@ I'm Mohammad Misbah, a seasoned Android developer with over a decade of hands-on
 
 ## Technical Proficiency
 
-- **Languages:** Java, Kotlin
-- **Tools & Frameworks:** Android Studio, [mention any other tools/frameworks]
+- **Languages:** Java, Kotlin, Dart/Flutter
+- **Tools & Frameworks:** Android Studio, Visual Studio Code, 
 - **Specializations:** UI/UX design, performance optimization, security
 
 ## Current Focus
