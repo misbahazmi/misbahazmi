@@ -28,3 +28,7 @@ I'm a firm believer in the power of open source. You can find my contributions i
 ## Let's Connect
 
 Whether you're interested in discussing the latest trends in Android development, exploring potential collaborations, or simply connecting with fellow enthusiasts, I'm always open to meaningful conversations. Let's connect and continue building amazing Android experiences together! 💬
+
+## Work Contributions
+
+I contribute to various projects under [Indian Dreamscoder](https://github.com/indiandreamscoder), focusing on coding, training, and learning.
