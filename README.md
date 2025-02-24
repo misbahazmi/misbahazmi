@@ -4,16 +4,16 @@ I'm Mohammad Misbah, a seasoned Android developer with over a decade of hands-on
 
 ## About Me
 
-- 📱 **Android Developer** with 10+ years of experience
-- 🚀 Expertise in Android with Java & Kotlin, Flutter, Fintech, Application Security
-- 🌐 https://dreamscoders.blogspot.com/
+- 📱 **Lead Android Development Engineer** with 11+ years of experience
+- 🚀 Expertise in Android with Java & Kotlin, Flutter, React Native, Fintech, Application Security
+- 🌐 https://misbahazmi.medium.com/ and https://dreamscoders.blogspot.com/
 - 📧 https://stackoverflow.com/users/3481130/mohammad-misbah
 
 ## Technical Proficiency
 
-- **Languages:** Java, Kotlin, Dart/Flutter
+- **Languages:** Java, Kotlin, Dart/Flutter & React Native
 - **Tools & Frameworks:** Android Studio, Eclipse & Visual Studio Code
-- **Specializations:** UI/UX design, performance optimization, security & SDK integration
+- **Specializations:** UI/UX design, performance optimization, API integration, security & SDK integration
 
 ## Current Focus
 
