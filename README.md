@@ -20,6 +20,7 @@ I'm Mohammad Misbah, a seasoned Android developer with over a decade of hands-on
 In my current projects:
 - I'm diving deep into fintech/payments, aiming to Mastercard Tokenization/Digitization, Tap & Pay, Security Evaluation & PCI-DSS.
 - Flutter as module in native apps
+- Diving into react native development
 
 ## Open Source Contributions
 
